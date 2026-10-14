@@ -1,2 +1,3 @@
 # embedded-learning-journey
-My journey learning embedded systems,
+I am a computer science student learning embedded systems.
+My journey learning embedded systems.
